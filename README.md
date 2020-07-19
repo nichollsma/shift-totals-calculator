@@ -12,11 +12,25 @@
 7.
 8.
 
-### Features and Usage
+### Overview
  This is a simple student-developed application developed to help create an overview for the data of a restaurant server's shift.  
  This application will also assist in calculating an optional bar tipout, as well as the net tips earned after the tipout.  
  Users will select an option in the menu, which will be to either input data, calculate a bar tipout or net tips earned, and display an overview of shift data.  
- The menu is very easy to navigate and use, and 
+ The menu is very easy to navigate and use, and only requires simple inputs from the user to operate.  
+
+ Here are some images of the menu in action:
+ 
+ **Main screen:**
+ (Main screen of the menu)[images/menu.PNG]
+ 
+ **Input Example:**
+ (Inputting total sales)[images/inputEx.PNG]
+ 
+ **Net Tip Calculation Example:**
+ (Example of calculating net tips)[images/netTipsEx.PNG]
+ 
+ **Overview Screen Example:**
+ (Example of overview screen)[images/overviewEx.PNG]
  
 ### Installation
  A Java Runtime Environment installation is required, which can be found [here](https://www.java.com/en/download) or [here.](https://www.oracle.com/java/technologies/javase-downloads.html)  
