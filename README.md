@@ -21,16 +21,16 @@
  Here are some images of the menu in action:
  
  **Main screen:**
- (Main screen of the menu)[images/menu.PNG]
+ ![Main screen of the menu](images/menu.PNG)
  
  **Input Example:**
- (Inputting total sales)[images/inputEx.PNG]
+ ![Inputting total sales](images/inputEx.PNG)
  
  **Net Tip Calculation Example:**
- (Example of calculating net tips)[images/netTipsEx.PNG]
+ ![Example of calculating net tips](images/netTipsEx.PNG)
  
  **Overview Screen Example:**
- (Example of overview screen)[images/overviewEx.PNG]
+ ![Example of overview screen](images/overviewEx.PNG)
  
 ### Installation
  A Java Runtime Environment installation is required, which can be found [here](https://www.java.com/en/download) or [here.](https://www.oracle.com/java/technologies/javase-downloads.html)  
