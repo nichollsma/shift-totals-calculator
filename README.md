@@ -5,11 +5,11 @@
 ### Table of Contents
 1. [Overview](#overview)
 2. [Installation Instructions](#installation)
-3. [Usage Instructions](#usage)
+3. [Usage Instructions](#usage-instructions)
 4. [FAQs](#faqs)
 5. [Troubleshooting](#troubleshooting)
-6. [Contact and Support](#support)
-7. [How to Contribute?](#contribute)
+6. [Contact and Support](#contact-and-support)
+7. [How to Contribute](#how-to-contribute)
 8. [License](#license)
 
 ### Overview
