@@ -50,10 +50,8 @@ To extract the files you will need a **file archiver** such as [WinRAR](https://
  **1. Download the Program**  
   The application can be downloaded as a ZIP file using [this link.](https://github.com/nichollsma/shift-totals-calculator/archive/master.zip)  
   *The downloaded file includes everything you need to run the application.*
- 
  **2. Extract Files**  
   Open the ZIP file using one of the programs or methods mentioned above, then extract the files to a destination folder of your choice.
-  
  **3. Run the Application**  
   To use the application, simply double click the jar file located within the files you extracted during the previous step and the menu will display.
   
@@ -141,7 +139,7 @@ A: This program has not been implemented for use on mobile devices, and there ar
  * If you have problems using either WinRAR or 7Zip, try reinstalling or updating your program, and if the problem persists try using the other program mentioned
  * If the jar file does not run, try renstalling or updating your Java installation as well as restarting your computer before trying to run the file again
  
-The Troubleshooting and Support pages for Java, WinRAR, and 7Zip can be found through the download links listed in the [installation instructions](#installation-instructions) section, or can be found through a search engine. I **strongly** suggest visiting those pages for more information as they will offer more detail and cover specific issues of their respective programs not able to be listed here.
+The Troubleshooting and Support pages for Java, WinRAR, and 7Zip can be found through the download links listed in the [installation instructions](#installation-instructions) section, or can be found through a search engine. I ***strongly*** suggest visiting those pages for more information as they will offer more detail and cover specific issues of their respective programs not able to be listed here.
  
 If you are unable to resolve your issue or are experiencing an issue not mentioned above, you are welcome to email **nichollsma@appstate.edu** with any problems or concerns.
 
@@ -157,11 +155,20 @@ You are welcome to propose additions or alterations to the source code by forkin
 You may also collaborate directly with the developer by contacting **nichollsma@appstate.edu** or viewing the [GitHub page](https://github.com/nichollsma/shift-totals-calculator).  
 Any pull requests and issues, including new features, bug reports, etc. are encouraged and gladly accepted!  
 
+**Current focus:**  
+Updating formatting and simplifying names for menu options
+
+![Main menu formatting](images/menuFormat.PNG)  
+This is the current main menu formatting.
+
+![Overview Formatting](images/overviewFormat.PNG)  
+This is the current formatting for menu option 12.
+
 ## Support and Contact
 
 ----------------------
 
-If you are having any trouble installing or using the program, please refer to the [troubleshooting](#troubleshooting) section first. 
+If you are having any trouble installing or using the program, ***please*** refer to the [troubleshooting](#troubleshooting) section first. 
 
 Otherwise, any comments, concerns, or unanswered questions about the program are very welcome and may be sent by email to **nichollsma@appstate.edu**.  You may also submit an issue or bug on the program's [issues page](https://github.com/nichollsma/shift-totals-calculator/issues) while adhering to the [GitHub issue creation guide](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue).
 
