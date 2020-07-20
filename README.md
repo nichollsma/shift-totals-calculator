@@ -64,7 +64,7 @@ To extract the files you will need a **file archiver** such as [WinRAR](https://
 ---------------------
 
 **1. Run the program**  
-   To use the application, simply double click the jar file located within the files you extracted during step 2 of the [installation process](#installation-instructions) and the menu will display.  The menu looks like this:
+   To use the application, simply double click the jar file located within the files you extracted during step 2 of the [installation process](#installation-instructions) and the menu will display.  The menu looks like this:  
    ![Main screen of the menu](images/menu.PNG)
  
 **2. Selection a menu option**  
