@@ -85,7 +85,7 @@ To extract the files you will need a **file archiver** such as [WinRAR](https://
  
 **4. Display your data**  
 
-    Menu options 1 though 5 as well as option 11 are used to display your data, with each option stating what data will be displayed upon being selected.  
+   Menu options 1 though 5 as well as option 11 are used to display your data, with each option stating what data will be displayed upon being selected.  
  
    Menu options 1 - 5:  
    ![Menu options 1 through 5 to display data](images/display15.PNG)
