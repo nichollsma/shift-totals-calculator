@@ -84,7 +84,8 @@ To extract the files you will need a **file archiver** such as [WinRAR](https://
    ![Inputting total sales](images/inputEx.PNG)
  
 **4. Display your data**  
-   Menu options 1 though 5 as well as option 11 are used to display your data, with each option stating what data will be displayed upon being selected.  
+
+    Menu options 1 though 5 as well as option 11 are used to display your data, with each option stating what data will be displayed upon being selected.  
  
    Menu options 1 - 5:  
    ![Menu options 1 through 5 to display data](images/display15.PNG)
@@ -94,7 +95,7 @@ To extract the files you will need a **file archiver** such as [WinRAR](https://
    Option 11 will calculate your net tips for the shift and display the calculation, which is your total tips minus your bar tip out.  
  
    As an example, here is what will be displayed when you select option 3 - "Display total tips":  
-   1[Displaying total tips](images/displayEx.PNG)
+   ![Displaying total tips](images/displayEx.PNG)
  
 **5. Display the overview**  
    Menu option 12 is used to display the overview of your data, which includes your section, total sales, total tips, alcohol sales, and bar tip out. This is the main use of the program, and will hopefully save you from looking through your checkout slip multiple times.
