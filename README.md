@@ -2,7 +2,9 @@
 
 -----------------------------------------------------------------------------
 
-### Table of Contents
+## Table of Contents
+--------------------
+
 1. [Overview](#overview)
 2. [Installation Instructions](#installation-instructions)
 3. [Usage Instructions](#usage-instructions)
@@ -12,7 +14,10 @@
 7. [How to Contribute?](#how-to-contribute)
 8. [License](#license)
 
-### Overview
+## Overview
+
+-----------
+
 This is a simple student-developed program developed to help create an overview for the data of a restaurant server's shift.  
 This program will also assist in calculating an optional bar tipout, as well as the net tips earned after the tipout.  
 Users will select an option in the menu, which will be to either input data, calculate a bar tipout or net tips earned, and display an overview of shift data.  
@@ -33,6 +38,9 @@ Here are some images of the menu in action:
 ![Example of overview screen](images/overviewEx.PNG)
  
 ### Installation Instructions
+
+-----------------------------
+
 A Java Runtime Environment installation is required, which can be found [here](https://www.java.com/en/download) or [here](https://www.oracle.com/java/technologies/javase-downloads.html). These links will contain any of the information you need to download Java for your operating system.
 
 To extract the files you will need a **file archiver** such as [WinRAR](https://www.rarlab.com/download.htm) or [Zip](https://www.7-zip.org/download.html).  
@@ -50,11 +58,15 @@ To extract the files you will need a **file archiver** such as [WinRAR](https://
   
 *Voila!* You have now installed the shift totals calculator program and are ready to use it at any time.
  
-### Usage Instructions
+## Usage Instructions
+
+---------------------
 
 asdf
 
-### FAQs
+## FAQs
+
+-------
 
 Q: 
 
@@ -72,7 +84,10 @@ Q:
 
 A:
  
-### Troubleshooting
+## Troubleshooting
+
+------------------
+
  * If you have any problems downloading the file or the programs mentioned in the [installation instructions](#installation-instructions) section, try refreshing the page or reconnecting to the internet before reattempting to download
  * If the download links for Java as well as WinRAR and 7Zip are broken or lead to an error page, the products can easily be found on a search engine.
  * If you have problems opening the ZIP file with your OS's file explorer, try using one of the programs mentioned in the [installation instructions](#installation-instructions) section
@@ -83,7 +98,10 @@ The Troubleshooting and Support pages for Java, WinRAR, and 7Zip can be found th
  
 If you are unable to resolve your issue or are experiencing an issue not mentioned above, you are welcome to email **nichollsma@appstate.edu** with any problems or concerns.
 
-### How to Contribute?
+## How to Contribute?
+
+---------------------
+
 If you are **unfamiliar with coding**:  
 You may submit bug reports, issues, and new feature suggestions on the [issues page](https://github.com/nichollsma/shift-totals-calculator/issues) using [this guide](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue).
   
@@ -92,13 +110,17 @@ You are welcome to propose additions or alterations to the source code by forkin
 You may also collaborate directly with the developer by contacting **nichollsma@appstate.edu** or viewing the [GitHub page](https://github.com/nichollsma/shift-totals-calculator).  
 Any pull requests and issues, including new features, bug reports, etc. are encouraged and gladly accepted!  
 
-### Support and Contact
+## Support and Contact
+
+----------------------
 
 If you are having any trouble installing or using the program, please refer to the [troubleshooting](#troubleshooting) section first. 
 
 Otherwise, any comments, concerns, or unanswered questions about the program are very welcome and may be sent by email to **nichollsma@appstate.edu**.  You may also submit an issue or bug on the program's [issues page](https://github.com/nichollsma/shift-totals-calculator/issues) while adhering to the [GitHub issue creation guide](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue).
 
-### License
+## License
+
+----------
  
 [MIT License](https://github.com/nichollsma/shift-totals-calculator/blob/master/LICENSE)
 
