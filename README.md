@@ -48,12 +48,14 @@ To extract the files you will need a **file archiver** such as [WinRAR](https://
 *Newer versions of Windows and MacOS also allow ZIP file extraction through their respective file explorers.*
 
  **1. Download the Program**  
-  The application can be downloaded as a ZIP file using [this link.](https://github.com/nichollsma/shift-totals-calculator/archive/master.zip)  
-  *The downloaded file includes everything you need to run the application.*
+    The application can be downloaded as a ZIP file using [this link.](https://github.com/nichollsma/shift-totals-calculator/archive/master.zip)  
+    *The downloaded file includes everything you need to run the application.*
+  
  **2. Extract Files**  
-  Open the ZIP file using one of the programs or methods mentioned above, then extract the files to a destination folder of your choice.
+    Open the ZIP file using one of the programs or methods mentioned above, then extract the files to a destination folder of your choice.
+  
  **3. Run the Application**  
-  To use the application, simply double click the jar file located within the files you extracted during the previous step and the menu will display.
+    To use the application, simply double click the jar file located within the files you extracted during the previous step and the menu will display.
   
 *Voila!* You have now installed the shift totals calculator program and are ready to use it at any time.
  
@@ -62,52 +64,52 @@ To extract the files you will need a **file archiver** such as [WinRAR](https://
 ---------------------
 
 **1. Run the program**  
- To use the application, simply double click the jar file located within the files you extracted during step 2 of the [installation process](#installation-instructions) and the menu will display.  The menu looks like this:
- ![Main screen of the menu](images/menu.PNG)
+   To use the application, simply double click the jar file located within the files you extracted during step 2 of the [installation process](#installation-instructions) and the menu will display.  The menu looks like this:
+   ![Main screen of the menu](images/menu.PNG)
  
 **2. Selection a menu option**  
- To use one of the options of the menu, simply type the number in the list that corresponds to the action you want to perform then click the "OK" button.  
- If you selected the wrong option, you can simply click the "Cancel" button to take you back to the main menu.
- For example, to set the value for your total sales, you would type the number 7 into the box like in the image below, and then click the "OK" button.
- ![Setting total sales](images/setSales.PNG)
+   To use one of the options of the menu, simply type the number in the list that corresponds to the action you want to perform then click the "OK" button.  
+   If you selected the wrong option, you can simply click the "Cancel" button to take you back to the main menu.
+   For example, to set the value for your total sales, you would type the number 7 into the box like in the image below, and then click the "OK" button.  
+   ![Setting total sales](images/setSales.PNG)
 
 **3. Input your data**  
- Menu options 6 through 10 are used to input data, with each option stating what data you will input upon selecting it. You must input data for everything but your bar tip out if you want this program to work as intended, however the order in which you input your data is not important.  
+   Menu options 6 through 10 are used to input data, with each option stating what data you will input upon selecting it. You must input data for everything but your bar tip out if you want this program to work as intended, however the order in which you input your data is not important.  
  
- Menu options 6 - 10:  
- ![Menu options to input data](images/inputSel.PNG)  
- Option 10 is optional, as the shift overview will calculate a bar tip out corresponding to 20% of your alcohol sales, however you can use option 10 to enter in a custom tip out if you do not use a 20% calculation.  
+   Menu options 6 - 10:  
+   ![Menu options to input data](images/inputSel.PNG)  
+   Option 10 is optional, as the shift overview will calculate a bar tip out corresponding to 20% of your alcohol sales, however you can use option 10 to enter in a custom tip out if you do not use a 20% calculation.  
  
- As an example, here is what will be displayed when you select menu option 7 - "Set total sales":  
- ![Inputting total sales](images/inputEx.PNG)
+   As an example, here is what will be displayed when you select menu option 7 - "Set total sales":  
+   ![Inputting total sales](images/inputEx.PNG)
  
 **4. Display your data**  
- Menu options 1 though 5 as well as option 11 are used to display your data, with each option stating what data will be displayed upon being selected.  
+   Menu options 1 though 5 as well as option 11 are used to display your data, with each option stating what data will be displayed upon being selected.  
  
- Menu options 1 - 5:
- ![Menu options 1 through 5 to display data](images/display15.PNG)
+   Menu options 1 - 5:  
+   ![Menu options 1 through 5 to display data](images/display15.PNG)
  
- Menu options 11:
- ![Menu option 11 to display net tips](images/display11.PNG)  
- Option 11 will calculate your net tips for the shift and display the calculation, which is your total tips minus your bar tip out.  
+   Menu options 11:  
+   ![Menu option 11 to display net tips](images/display11.PNG)  
+   Option 11 will calculate your net tips for the shift and display the calculation, which is your total tips minus your bar tip out.  
  
- As an example, here is what will be displayed when you select option 3 - "Display total tips":  
- 1[Displaying total tips](images/displayEx.PNG)
+   As an example, here is what will be displayed when you select option 3 - "Display total tips":  
+   1[Displaying total tips](images/displayEx.PNG)
  
 **5. Display the overview**  
- Menu option 12 is used to display the overview of your data, which includes your section, total sales, total tips, alcohol sales, and bar tip out. This is the main use of the program, and will hopefully save you from looking through your checkout slip multiple times.
+   Menu option 12 is used to display the overview of your data, which includes your section, total sales, total tips, alcohol sales, and bar tip out. This is the main use of the program, and will hopefully save you from looking through your checkout slip multiple times.
  
- Here is an example of what is displayed when you select menu option 12 - "Display all field variables for the item":  
- ![Example of overview screen](images/overviewEx.PNG)![Example of using the overview menu option](images/ovi)
+   Here is an example of what is displayed when you select menu option 12 - "Display all field variables for the item":  
+   ![Example of overview screen](images/overviewEx.PNG)
 
 **6. Exit the program**  
- When you are done using the program, you may exit by clicking the "X" in the top right of the menu, highlighted yellow in the following picture:  
- ![Exiting using the "X"](images/exit1.PNG)
+   When you are done using the program, you may exit by clicking the "X" in the top right of the menu, highlighted yellow in the following picture:  
+   ![Exiting using the "X"](images/exit1.PNG)
  
- Or by selecting menu option 13 - "Exit":  
- ![Exiting using option 13](images/exit2.PNG)
+   Or by selecting menu option 13 - "Exit":  
+   ![Exiting using option 13](images/exit2.PNG)
  
- Your data **will not** be saved, so be careful not to exit before you are done using the program!
+   Your data **will not** be saved, so be careful not to exit before you are done using the program!
  
 ## FAQs
 
@@ -163,6 +165,8 @@ This is the current main menu formatting.
 
 ![Overview Formatting](images/overviewFormat.PNG)  
 This is the current formatting for menu option 12.
+
+Any tips or suggestions for these sections would be greatly appreciated!
 
 ## Support and Contact
 
