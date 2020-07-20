@@ -8,7 +8,7 @@
 3. [Usage Instructions](#usage-instructions)
 4. [FAQs](#faqs)
 5. [Troubleshooting](#troubleshooting)
-6. [Contact & Support](#contact-&-support)
+6. [Support and Contact](#support-and-contact)
 7. [How to Contribute?](#how-to-contribute)
 8. [License](#license)
 
@@ -92,7 +92,7 @@ You are welcome to propose additions or alterations to the source code by forkin
 You may also collaborate directly with the developer by contacting **nichollsma@appstate.edu** or viewing the [GitHub page](https://github.com/nichollsma/shift-totals-calculator).  
 Any pull requests and issues, including new features, bug reports, etc. are encouraged and gladly accepted!  
 
-### Contact & Support
+### Support and Contact
 
 If you are having any trouble installing or using the program, please refer to the [troubleshooting](#troubleshooting) section first. 
 
