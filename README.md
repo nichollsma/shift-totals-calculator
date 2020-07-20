@@ -138,7 +138,7 @@ A: This program has not been implemented for use on mobile devices, and there ar
 
  * If you have any problems downloading the file or the programs mentioned in the [installation instructions](#installation-instructions) section, try refreshing the page or reconnecting to the internet before reattempting to download
  * If the download links for Java as well as WinRAR and 7Zip are broken or lead to an error page, the products can easily be found on a search engine.
- * If you have problems opening the ZIP file with your OS's file explorer, try using one of the programs mentioned in the [installation instructions](#installation-instructions) section
+ * If you have problems opening the ZIP file with your operating system's file explorer, try using one of the programs mentioned in the [installation instructions](#installation-instructions) section
  * If you have problems using either WinRAR or 7Zip, try reinstalling or updating your program, and if the problem persists try using the other program mentioned
  * If the jar file does not run, try renstalling or updating your Java installation as well as restarting your computer before trying to run the file again
  
