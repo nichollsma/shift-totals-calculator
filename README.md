@@ -4,12 +4,12 @@
 
 ### Table of Contents
 1. [Overview](#overview)
-2. [Installation Instructions](#installation)
+2. [Installation Instructions](#installation-instructions)
 3. [Usage Instructions](#usage-instructions)
 4. [FAQs](#faqs)
 5. [Troubleshooting](#troubleshooting)
-6. [Contact and Support](#contact-and-support)
-7. [How to Contribute](#how-to-contribute)
+6. [Contact & Support](#contact-&-support)
+7. [How to Contribute?](#how-to-contribute)
 8. [License](#license)
 
 ### Overview
@@ -73,27 +73,30 @@ Q:
 A:
  
 ### Troubleshooting
- * If you have any problems downloading the file or the programs mentioned in the [installation instructions](#installation) section, try refreshing the page or reconnecting to the internet before reattempting to download
+ * If you have any problems downloading the file or the programs mentioned in the [installation instructions](#installation-instructions) section, try refreshing the page or reconnecting to the internet before reattempting to download
  * If the download links for Java as well as WinRAR and 7Zip are broken or lead to an error page, the products can easily be found on a search engine.
- * If you have problems opening the ZIP file with your OS's file explorer, try using one of the programs mentioned in the [installation instructions](#installation) section
+ * If you have problems opening the ZIP file with your OS's file explorer, try using one of the programs mentioned in the [installation instructions](#installation-instructions) section
  * If you have problems using either WinRAR or 7Zip, try reinstalling or updating your program, and if the problem persists try using the other program mentioned
  * If the jar file does not run, try renstalling or updating your Java installation as well as restarting your computer before trying to run the file again
  
-The Troubleshooting and Support pages for Java, WinRAR, and 7Zip can be found through the download links listed in the [installation instructions](#installation) section, or can be found through a search engine. I **strongly** suggest visiting those pages for more information as they will offer more detail and cover specific issues of their respective programs not able to be listed here.
+The Troubleshooting and Support pages for Java, WinRAR, and 7Zip can be found through the download links listed in the [installation instructions](#installation-instructions) section, or can be found through a search engine. I **strongly** suggest visiting those pages for more information as they will offer more detail and cover specific issues of their respective programs not able to be listed here.
  
 If you are unable to resolve your issue or are experiencing an issue not mentioned above, you are welcome to email **nichollsma@appstate.edu** with any problems or concerns.
 
 ### How to Contribute?
-If you are **unfamiliar with coding**, you may submit bug reports, issues, and new feature suggestions  on the [issues page](https://github.com/nichollsma/shift-totals-calculator/issues) using [this guide](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue).
+If you are **unfamiliar with coding**:  
+You may submit bug reports, issues, and new feature suggestions on the [issues page](https://github.com/nichollsma/shift-totals-calculator/issues) using [this guide](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue).
   
-If you have **developed programs before**, you are welcome to propose additions or alterations to the source code by forking the [repository](https://github.com/nichollsma/shift-totals-calculator), altering the source code as you see fit, and creating a pull request.  
+If you have **developed programs before**:  
+You are welcome to propose additions or alterations to the source code by forking the [repository](https://github.com/nichollsma/shift-totals-calculator), altering the source code as you see fit, and creating a pull request.  
 You may also collaborate directly with the developer by contacting **nichollsma@appstate.edu** or viewing the [GitHub page](https://github.com/nichollsma/shift-totals-calculator).  
 Any pull requests and issues, including new features, bug reports, etc. are encouraged and gladly accepted!  
 
 ### Contact & Support
 
-If you are having any trouble installing or using the program, please refer to the [troubleshooting] (#troubleshooting) section first.  
-Otherwise, any comments, concerns, or unanswered questions about the program are very welcome and may be sent by email to **nichollsma@appstate.edu**. You may also submit an issue or bug on the program's [issues page](https://github.com/nichollsma/shift-totals-calculator/issues) while adhering to the [GitHub issue creation guide](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue).
+If you are having any trouble installing or using the program, please refer to the [troubleshooting](#troubleshooting) section first. 
+
+Otherwise, any comments, concerns, or unanswered questions about the program are very welcome and may be sent by email to **nichollsma@appstate.edu**.  You may also submit an issue or bug on the program's [issues page](https://github.com/nichollsma/shift-totals-calculator/issues) while adhering to the [GitHub issue creation guide](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue).
 
 ### License
  
